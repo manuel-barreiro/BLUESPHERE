@@ -8781,6 +8781,26 @@ header{
 
   /* OTROS ESTILOS */
 
+  	h3 {
+		font-weight: 400;
+	}
+
+  	.negrita {
+		font-weight: 400;
+	}
+
+	#servicios > p {
+		font-size: 1.2rem;
+	}
+
+	#insumos > div > p {
+		font-size: 1.2rem;
+	}
+
+	#contacto > #formulario > p {
+		font-size: 1.2rem;
+	}
+
   	#whoAreWe > p {
 		text-align: justify;
 		font-size: 1.2rem;

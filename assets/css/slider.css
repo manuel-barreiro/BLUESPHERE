@@ -10,14 +10,19 @@
     animation: scroll 40s linear infinite;
     -webkit-animation: scroll 40s linear infinite;
     width: calc(200px * 14);
+    gap: 30px;
 }
 
 .slider .slide {
     width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .slider .slide img {
-    width: 100%;
+    max-width: 100%;
 }
 
 @keyframes scroll {
