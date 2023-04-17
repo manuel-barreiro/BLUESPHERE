@@ -3,6 +3,7 @@ Website developed for Bluesphere S.A., a Waste Management enterprise based in Ar
 
 <img width="921" alt="image" src="https://user-images.githubusercontent.com/103281038/230750737-b1298c66-eb8c-478e-9213-a4aecc6abbbc.png">
 
+<img width="960" alt="bluesphere-portfolio" src="https://user-images.githubusercontent.com/103281038/232534548-8bd48c84-3439-46a9-9053-e6b23e6289ea.png">
 
 ## How It's Made:
 
