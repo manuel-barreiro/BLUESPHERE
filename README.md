@@ -1,5 +1,7 @@
 # BLUESPHERE Webpage
-Website developed for Bluesphere S.A., a Waste Management enterprise based in Argentina
+Responsive website developed for Bluesphere S.A., a Waste Management enterprise based in Argentina.
+
+Visit https://bluesphere.com.ar/
 
 <img width="960" alt="bluesphere-portfolio1" src="https://user-images.githubusercontent.com/103281038/232534697-3fd82dd6-90d2-4625-865e-e42cb9f3f8b8.png">
 
