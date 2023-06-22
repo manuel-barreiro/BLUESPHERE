@@ -1,5 +1,5 @@
 # BLUESPHERE Landing Page
-Responsive website developed for Bluesphere S.A., a Waste Management enterprise based in.
+Responsive website developed for Bluesphere S.A., a Waste Management enterprise based in Argentina.
 
 Visit https://bluesphere.com.ar/
 
